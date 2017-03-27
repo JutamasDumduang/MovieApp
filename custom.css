@@ -1,0 +1,16 @@
+#ajax{
+  background-image:url(images/CaptainAmerica.jpg);
+}
+#movie_detail{
+  background-image:url(images/CaptainAmerica.jpg);
+}
+
+#branding{
+background:url(images/Film-Camera-Logo-2.png) no-repeat;
+width:212px;
+height:100px;
+text-indent:-999px;
+font-size:0px;
+margin:-10px auto 0 auto;
+border-bottom:1px solid rgba(65, 38, 37, 0.6);
+}
